@@ -20,4 +20,4 @@
 
 [Просмотреть демонстрационный ролик](https://youtu.be/0ddIPUs9GX0)
 
-Саму работу можно просмотреть в данном репозитории.
+[Саму работу можно просмотреть в данном репозитории] (https://github.com/Kerroline/GraduateWork/blob/main/Graduate_Work_Sinyagin_1171b_Lastest.pdf)
